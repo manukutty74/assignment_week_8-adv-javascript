@@ -40,7 +40,7 @@ Example: "git clone https://github.com/someone/someone-repo.git"
 How to deploy on local machine.
 
 ```
-1. While in git or bash terminal run "node main2.js" while in the advance-javascript-homework directory.
+1. While in git or bash terminal run "node main.js" while in the advance-javascript-homework directory.
 ```
 
 ### Usage
@@ -61,4 +61,4 @@ How to use.
 
 ### Authors
 
-* Alexander Robinson
+* MK
